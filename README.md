@@ -9,14 +9,14 @@
 
 ## Key Features
 
-* **📊 Dynamic Dashboard:** Instantly visualizes KPIs, time-series trends, and categorical distributions upon data upload. Includes an interactive Q&A section to query your data.
-* **🧠 Automated AI Insights:** Automatically detects statistical anomalies (via Isolation Forest), missing values, highly correlated metrics, and skewed distributions.
-* **📈 Advanced Analysis:** Deep-dive tools including an interactive data explorer with multi-level filtering, correlation heatmaps, and hierarchical segment analysis (treemaps & pie charts).
-* **🏢 Sector Analysis:** Domain-specific templates (Healthcare, Retail, Finance, etc.) to benchmark top/bottom performers, generate multi-metric radar charts, and conduct head-to-head segment comparisons.
-* **🔮 ML Forecasting Engine:** * *Time-Series Forecasting:* Predict future trends using Gradient Boosting, Random Forest, or Linear Regression.
+* **Dynamic Dashboard:** Instantly visualizes KPIs, time-series trends, and categorical distributions upon data upload. Includes an interactive Q&A section to query your data.
+* **Automated AI Insights:** Automatically detects statistical anomalies (via Isolation Forest), missing values, highly correlated metrics, and skewed distributions.
+* **Advanced Analysis:** Deep-dive tools including an interactive data explorer with multi-level filtering, correlation heatmaps, and hierarchical segment analysis (treemaps & pie charts).
+* **Sector Analysis:** Domain-specific templates (Healthcare, Retail, Finance, etc.) to benchmark top/bottom performers, generate multi-metric radar charts, and conduct head-to-head segment comparisons.
+* **ML Forecasting Engine:** * *Time-Series Forecasting:* Predict future trends using Gradient Boosting, Random Forest, or Linear Regression.
   * *Regression Predictor:* Train custom models to predict target variables based on selected features, complete with feature importance and accuracy metrics (R², MAE, RMSE).
-* **💬 NLP Insights Center:** Translates complex data visualizations (scatter plots, distributions, forecasting bands) into easy-to-understand, plain-English narratives.
-* **📑 Intelligence Report Engine:** One-click generation of a self-contained, downloadable HTML executive report containing data quality audits, trend analysis, risk flags, and strategic recommendations.
+* **NLP Insights Center:** Translates complex data visualizations (scatter plots, distributions, forecasting bands) into easy-to-understand, plain-English narratives.
+* **Intelligence Report Engine:** One-click generation of a self-contained, downloadable HTML executive report containing data quality audits, trend analysis, risk flags, and strategic recommendations.
 
 ## Tech Stack
 
